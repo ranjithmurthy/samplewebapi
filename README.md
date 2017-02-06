@@ -4,10 +4,10 @@
 
 These services can then be consumed by a board  range of clients like 
 
-	Browsers
-	Mobile applications 
-	Desktop applications
-	IOTs
+	# Browsers
+	# Mobile applications 
+	# Desktop applications
+	# IOTs
 
 
 # Rest Constraints 
